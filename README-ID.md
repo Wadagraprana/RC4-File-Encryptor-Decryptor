@@ -64,7 +64,7 @@ RC4 tidak secara otomatis memvalidasi kunci, oleh karena itu:
 
 6. Buka browser Anda dan kunjungi:
    ```
-   http://127.0.0.1:8000/
+   http://127.0.0.1:8003/
    ```
 
 ## Cara Penggunaan

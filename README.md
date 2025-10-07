@@ -64,7 +64,7 @@ RC4 does not inherently validate keys, so:
 
 6. Open your browser and visit:
    ```
-   http://127.0.0.1:8000/
+   http://127.0.0.1:8003/
    ```
 
 ## Usage
